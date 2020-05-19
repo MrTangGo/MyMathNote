@@ -1,0 +1,33 @@
+note_name_en: LinerAlgebra
+note_name_cn: 线性代数
+section_list:
+ - 
+  section_name_cn: 预备知识
+  section_name_en: Preparatory Knowledge
+  section_path: /src/sections/preparatory_knowledge/preparatory_knowledge.tex
+  sub_secitons_list: 
+   - 
+    sub_sections_name_cn: 计数原理
+    sub_secitons_name_en: Counting principle
+   - 
+    sub_sections_name_cn: 加法原理
+    sub_secitons_name_en: Principle of addition
+   - 
+    sub_sections_name_cn: 乘法原理
+    sub_secitons_name_en: Multiplication principle
+ - 
+  section_name_cn: 概率论基础
+  section_name_en: Basic Concepts of Probability Theory
+  section_path: /src/sections/basic_concepts_of_probability_theory/basic_concepts_of_probability_theory.tex
+  sub_secitons_list: 
+   - 
+    sub_sections_name_cn: 随机事件
+    sub_secitons_name_en: Random events
+   - 
+    sub_sections_name_cn: 样本空间与事件
+    sub_secitons_name_en: Sample space and events
+
+
+  
+  
+  

@@ -1,0 +1,24 @@
+notes_name_en: matn_note
+notes_name_cn: 数学笔记本
+
+notes_list:
+ - 
+  note_name_en: Calculus
+  note_name_cn: 微积分
+  short:  CA
+  dir: /Calculus
+ -
+  note_name_en: LinerAlgebra
+  note_name_cn: 线性代数
+  short:  LA
+  dir: /LinerAlgebra
+ - 
+  note_name_en: Probability
+  note_name_cn: 概率论
+  short:  PR
+  dir: /Probability
+
+current_note_working_path: /current
+  
+  
+  

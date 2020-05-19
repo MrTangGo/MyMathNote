@@ -1,0 +1,27 @@
+\section{条件概率}
+条件概率是指事件A在事件B发生的条件下发生的概率。条件概率表示为：P（A|B），读作“A在B发生的条件下发生的概率”。若只有两个事件A、B，那么$P(A \mid B)=\displaystyle \frac{P(AB)}{P(B)}$。
+
+从条件概率的定义可以,得出乘法定理：$P(AB) = P(A \mid B) \cdot  P(A) $
+
+\section{全概率公式与Bayes公式}
+
+\subsection{空间划分}
+设$S$为试验$E$ 的样本空间，$B_{1},B_{2},B_{3} \cdots B_{n} $ 为样本 $E$ 的一组事件，如果
+
+(i) $B_{i} \cap B_{j} = \varnothing , i \neq j , i,j = 1,2,3, \cdots n $
+
+(ii) $B_{1} \cup  B_{2} \cup  B_{3} \cdots \cup B_{n} = S $ 
+
+则称 $ B_{1}, B_{2}, B_{3}, \cdots , B_{n}  $ 为样本空间$S$ 的一个划分。对于每次试验，事件 $ B_{1}, B_{2}, B_{3}, \cdots , B_{n}  $ 中必有一个且仅有一个发生。
+
+
+
+
+\subsection{全概率公式}
+
+定理:设试验$E$的样本空间为$S$,$A$为$E$的事件。$B_{1},B_{2},B_{3},B_{4},B_{5}......$为$S$ 的一个划分。且$P(B_{i})>0,(i=1,2,3,\cdots,n)$,则：
+
+\[
+	P(A) = P(A \mid B _{1} ) \cdot P(B_{1})+P(A \mid B _{2} )\cdot P(B_{2}) +P(A \mid B _{3} )\cdot P(B_{3})+ \cdots + P(A \mid B _{n} ) \cdot P(B_{n})
+\]
+
